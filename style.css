@@ -1,0 +1,43 @@
+.header {
+    color: blue;
+    margin: 20px;
+    margin-left: 30px;
+}
+
+.titleHeader {
+    background: blue; 
+    margin: 10px; 
+    padding: 10px
+}
+
+.title {
+    color: blue; 
+    margin: 10px;
+}
+
+.Center {
+    text-align: center;
+    color: blue;
+    margin: 10px;
+}
+
+.CenterLagre{
+    text-align: center;
+    color: blue;
+    margin: 10px;
+    font-size: 35px;
+}
+
+.button {
+    background: rgb(11, 145, 179);
+    color: wheat;
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
+
+.border {
+    border: 3px solid blue; 
+    margin: 10px; 
+    padding: 40px
+}
